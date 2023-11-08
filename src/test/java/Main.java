@@ -3,6 +3,6 @@ public class Main {
         System.out.println("QU_GURU - the best of the best!!!!!");
     }
     private static String getMessage(){
-        return "Hello QA_GURU";
+        return "Hello QA_GURU!!!!";
     }
 }
